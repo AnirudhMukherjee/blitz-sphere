@@ -1,3 +1,3 @@
 # Blitz-sphere
 
-![Sphere](/screen1.JPG?raw=true "Sphere")
+![Sphere](/screen2.JPG?raw=true "Sphere")
